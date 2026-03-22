@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="MapleStory 2 Logo" src="./etc/logo.png" width="60%" />
+  <img alt="MapleStory 2 Logo" src="./etc/logo.png" width="30%" />
 </p>
 
 <p align="center">
